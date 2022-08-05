@@ -6,6 +6,12 @@
 
   
 - <b>Active Directory and Poweshell Projects </b>
+
+
+- <b>DevOps Projects</b>
+
+
+- <b>Linux Projects</b>
   
   
 - <b>AWS Projects</b>
